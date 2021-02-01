@@ -1,2 +1,2 @@
 # GodotWeaponVault
-My personal library of useful custom nodes and scripts for Godot
+My personal collection of useful custom nodes and scripts for Godot
